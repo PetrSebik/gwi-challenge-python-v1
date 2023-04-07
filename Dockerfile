@@ -34,4 +34,6 @@ ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
 WORKDIR /usr/dinopedia/app
 
+COPY manage.py ./
 COPY dinopedia dinopedia
+CMD ['python', 'manage.py', 'migrate']
