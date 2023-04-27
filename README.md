@@ -1,4 +1,4 @@
-# GlobalWebIndex Python Challenge - v1 | Exercise: DinosaursAficionado
+# Python Challenge - v1 | Exercise: DinosaursAficionado
 
 Create a Python application for Dinosaurs Aficionados which is going to be used to maintain and provide various information about all kinds of Dinosaurs.
 
@@ -28,6 +28,3 @@ We would like you to try and present a well written solution that will cover the
 * README
 
 Get creative as much as you want, we WILL appreciate it. You will not be evaluated based on how well you follow these instructions, but based on how sensible your solution will be. In case you are not able to implement something you would normally implement for time reasons, make it clear with a comment.
-
-# Submission
-Just create a private repo out of this and send invites to collaborate/review on the following emails <cbekos@gwi.com> / <tvesela@gwi.com> / <kgiannousis@gwi.com> / <zmaxa@gwi.com> / <ecechal@gwi.com>
